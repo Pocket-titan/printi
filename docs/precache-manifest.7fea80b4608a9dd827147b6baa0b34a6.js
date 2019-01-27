@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "428bf0190a5a54401281",
+    "revision": "bcbd5b7487711ee95ba4",
     "url": "/static/css/main.7838fd43.chunk.css"
   },
   {
-    "revision": "428bf0190a5a54401281",
-    "url": "/static/js/main.428bf019.chunk.js"
+    "revision": "bcbd5b7487711ee95ba4",
+    "url": "/static/js/main.bcbd5b74.chunk.js"
   },
   {
     "revision": "4c27edead7f3fb300621",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/static/media/printi_logo_transparent.8c0d89d7.svg"
   },
   {
-    "revision": "efa8a334f3a1b43d1b398a5e12d01514",
+    "revision": "573db03c2d056ecca6e392ce70dca981",
     "url": "/index.html"
   }
 ];

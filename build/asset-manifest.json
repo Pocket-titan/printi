@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.7838fd43.chunk.css",
-  "main.js": "/static/js/main.428bf019.chunk.js",
-  "main.js.map": "/static/js/main.428bf019.chunk.js.map",
+  "main.js": "/static/js/main.bcbd5b74.chunk.js",
+  "main.js.map": "/static/js/main.bcbd5b74.chunk.js.map",
   "static/js/1.4c27edea.chunk.js": "/static/js/1.4c27edea.chunk.js",
   "static/js/1.4c27edea.chunk.js.map": "/static/js/1.4c27edea.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -9,6 +9,6 @@
   "static/media/printi_logo_transparent.svg": "/static/media/printi_logo_transparent.8c0d89d7.svg",
   "static/css/main.7838fd43.chunk.css.map": "/static/css/main.7838fd43.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f2b3d392d54c96fc7914260f058e4309.js": "/precache-manifest.f2b3d392d54c96fc7914260f058e4309.js",
+  "precache-manifest.7fea80b4608a9dd827147b6baa0b34a6.js": "/precache-manifest.7fea80b4608a9dd827147b6baa0b34a6.js",
   "service-worker.js": "/service-worker.js"
 }
