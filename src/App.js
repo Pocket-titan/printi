@@ -9,6 +9,7 @@ class App extends Component {
     return (
       <Router>
         <Switch>
+          <Route exact path="/" component={Printer} />
           <Route path="/:printer" component={Printer} />
         </Switch>
       </Router>
