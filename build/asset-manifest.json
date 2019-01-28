@@ -1,7 +1,7 @@
 {
   "main.css": "/printi/static/css/main.7838fd43.chunk.css",
-  "main.js": "/printi/static/js/main.7c446dc5.chunk.js",
-  "main.js.map": "/printi/static/js/main.7c446dc5.chunk.js.map",
+  "main.js": "/printi/static/js/main.d0889f2a.chunk.js",
+  "main.js.map": "/printi/static/js/main.d0889f2a.chunk.js.map",
   "static/js/1.4c27edea.chunk.js": "/printi/static/js/1.4c27edea.chunk.js",
   "static/js/1.4c27edea.chunk.js.map": "/printi/static/js/1.4c27edea.chunk.js.map",
   "runtime~main.js": "/printi/static/js/runtime~main.c55074b7.js",
@@ -9,6 +9,6 @@
   "static/media/printi_logo_transparent.svg": "/printi/static/media/printi_logo_transparent.8c0d89d7.svg",
   "static/css/main.7838fd43.chunk.css.map": "/printi/static/css/main.7838fd43.chunk.css.map",
   "index.html": "/printi/index.html",
-  "precache-manifest.8d3e7a3eaa265a40e79558f6ec2a0fd0.js": "/printi/precache-manifest.8d3e7a3eaa265a40e79558f6ec2a0fd0.js",
+  "precache-manifest.cb88c993d82a4ebe3c0ebc6c11158a42.js": "/printi/precache-manifest.cb88c993d82a4ebe3c0ebc6c11158a42.js",
   "service-worker.js": "/printi/service-worker.js"
 }
