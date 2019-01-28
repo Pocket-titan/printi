@@ -1,6 +1,7 @@
 {
   "name": "printi-static",
   "version": "0.1.0",
+  "homepage": "https://pocket-titan.github.io/printi",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",

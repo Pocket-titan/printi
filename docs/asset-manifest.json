@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.7838fd43.chunk.css",
-  "main.js": "/static/js/main.10642ff1.chunk.js",
-  "main.js.map": "/static/js/main.10642ff1.chunk.js.map",
-  "static/js/1.4c27edea.chunk.js": "/static/js/1.4c27edea.chunk.js",
-  "static/js/1.4c27edea.chunk.js.map": "/static/js/1.4c27edea.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/printi_logo_transparent.svg": "/static/media/printi_logo_transparent.8c0d89d7.svg",
-  "static/css/main.7838fd43.chunk.css.map": "/static/css/main.7838fd43.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.e777610f4047020b94d402acc3e3c426.js": "/precache-manifest.e777610f4047020b94d402acc3e3c426.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/printi/static/css/main.7838fd43.chunk.css",
+  "main.js": "/printi/static/js/main.7c446dc5.chunk.js",
+  "main.js.map": "/printi/static/js/main.7c446dc5.chunk.js.map",
+  "static/js/1.4c27edea.chunk.js": "/printi/static/js/1.4c27edea.chunk.js",
+  "static/js/1.4c27edea.chunk.js.map": "/printi/static/js/1.4c27edea.chunk.js.map",
+  "runtime~main.js": "/printi/static/js/runtime~main.c55074b7.js",
+  "runtime~main.js.map": "/printi/static/js/runtime~main.c55074b7.js.map",
+  "static/media/printi_logo_transparent.svg": "/printi/static/media/printi_logo_transparent.8c0d89d7.svg",
+  "static/css/main.7838fd43.chunk.css.map": "/printi/static/css/main.7838fd43.chunk.css.map",
+  "index.html": "/printi/index.html",
+  "precache-manifest.8d3e7a3eaa265a40e79558f6ec2a0fd0.js": "/printi/precache-manifest.8d3e7a3eaa265a40e79558f6ec2a0fd0.js",
+  "service-worker.js": "/printi/service-worker.js"
 }
